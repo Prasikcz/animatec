@@ -1,0 +1,13 @@
+{
+    "users": [
+        { "id": 1, "lastName": "Snowy", "firstName": "Jon", "email": "text1@seznam.cz", "phone": "777 888 999" },
+        { "id": 2, "lastName": "Lannister", "firstName": "Cersei", "email": "text2@seznam.cz", "phone": "777 888 998" },
+        { "id": 3, "lastName": "Lannister", "firstName": "Jaime", "email": "text3@seznam.cz", "phone": "777 888 997" },
+        { "id": 4, "lastName": "Stark", "firstName": "Arya", "email": "text4@seznam.cz", "phone": "777 888 996" },
+        { "id": 5, "lastName": "Targaryen", "firstName": "Daenerys", "email": "text5@seznam.cz", "phone": "777 888 995" },
+        { "id": 6, "lastName": "Melisandre", "firstName": null, "email": "text6@seznam.cz", "phone": "777 888 994" },
+        { "id": 7, "lastName": "Clifford", "firstName": "Ferrara", "email": "text7@seznam.cz", "phone": "777 888 993" },
+        { "id": 8, "lastName": "Frances", "firstName": "Rossini", "email": "text8@seznam.cz" , "phone": "777 888 992" },
+        { "id": 9, "lastName": "Roxie", "firstName": "Harvey", "email": "text9@seznam.cz" , "phone": "777 888 991" }
+    ]
+}

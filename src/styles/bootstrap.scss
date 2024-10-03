@@ -1,0 +1,16 @@
+$primary: #006aff;
+$secondary: #2a3447;
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+//h1-h6
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    padding: 0;
+    margin: 0;
+}
