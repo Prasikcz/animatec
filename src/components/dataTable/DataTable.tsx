@@ -25,11 +25,11 @@ const DataTable = (props: Props) => {
                 <div className="d-flex gap-3">
                     
                     <Link to={`/${props.slug}/${params.row.id}`}>
-                        <img src="/view.svg" alt="" title="Detail" />
+                        <img src="/../view.svg" alt="" title="Detail" />
                     </Link>
                     
                     <div className="delete" onClick={() => handleDelete(params.row.id)}>
-                        <img src="/delete.svg" alt="" title="Odstranit" />
+                        <img src="/../delete.svg" alt="" title="Odstranit" />
                     </div>
                 </div>
             );
